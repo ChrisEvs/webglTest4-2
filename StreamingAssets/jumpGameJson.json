@@ -1,0 +1,62 @@
+{
+    "instructions": [
+        {
+            "textEng": "Play the game to work out how much insulin is needed for different amounts of carbohydrate using the ratios shown",
+            "textCym": "Croeso, yn gadael i chwarae gêm",
+            "failedRoundEng" : "Oh no! You hit too many ketones. Tap 'okay' to try this round again.",
+            "failedRoundCym" : "Oh no! You hit too many ketones. Tap 'okay' to try this round again."
+        }
+    ],
+    "rounds": [
+        {
+            "roundTxtEng": "Collect enough insulin for 100g of carbohydrate.",
+            "roundTxtCym": "Oops. Chocolate contains fat and is digested too slowly to use as a hypo treatment",
+            "ratio": "1:20",
+            "food": "pizza",
+            "insulinNum": "5",
+            "grams": "100",
+            "endRoundTxtEng": "Well done completed the round, you've colleced 5 insulins",
+            "endRoundTxtCym": "Da iawn cwblhau'r rownd"
+        },
+        {
+            "roundTxtEng": "Collect enough insulin for 20g of carbohydrate.",
+            "roundTxtCym": "Oops. Chocolate contains fat and is digested too slowly to use as a hypo treatment",
+            "ratio": "1:5",
+            "food": "banana",
+            "insulinNum": "4",
+            "grams": "20",
+            "endRoundTxtEng": "Well done completed the round, you've colleced 4 insulins",
+            "endRoundTxtCym": "Da iawn cwblhau'r rownd"
+        },
+        {
+            "roundTxtEng": "Collect enough insulin for 56g of carbohydrate..",
+            "roundTxtCym": "Oops. Chocolate contains fat and is digested too slowly to use as a hypo treatment",
+            "ratio": "1:8",
+            "food": "spaghetti",
+            "insulinNum": "7",
+            "grams": "56",
+            "endRoundTxtEng": "Well done completed the round, you've colleced 7 insulins",
+            "endRoundTxtCym": "Da iawn cwblhau'r rownd"
+        },
+        {
+            "roundTxtEng": "Collect enough insulin for 75g of carbohydrate.",
+            "roundTxtCym": "Oops. Chocolate contains fat and is digested too slowly to use as a hypo treatment",
+            "ratio": "1:15",
+            "food": "porridge",
+            "insulinNum": "5",
+            "grams": "75",
+            "endRoundTxtEng": "Well done completed the round, you've colleced 5 insulins",
+            "endRoundTxtCym": "Da iawn cwblhau'r rownd"
+        },
+        {
+            "roundTxtEng": "Collect enough insulin for 40g of carbohydrate.",
+            "roundTxtCym": "Oops. Chocolate contains fat and is digested too slowly to use as a hypo treatment",
+            "ratio": "1:10",
+            "food": "sausage",
+            "insulinNum": "4",
+            "grams": "40",
+            "endRoundTxtEng": "Well done completed the round, you've colleced 4 insulins",
+            "endRoundTxtCym": "Da iawn cwblhau'r rownd"
+        }
+    ]
+}
